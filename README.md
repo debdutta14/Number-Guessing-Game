@@ -1,2 +1,2 @@
 # guess_Number
-OASIS INFOBYTE Java internship task 2
+OASIS INFOBYTE Java Development internship task 2
